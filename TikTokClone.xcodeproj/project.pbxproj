@@ -11,6 +11,20 @@
 		3FDE67BE2B0C90A800CCEB1D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67BD2B0C90A800CCEB1D /* ContentView.swift */; };
 		3FDE67C02B0C90A900CCEB1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FDE67BF2B0C90A900CCEB1D /* Assets.xcassets */; };
 		3FDE67C32B0C90A900CCEB1D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FDE67C22B0C90A900CCEB1D /* Preview Assets.xcassets */; };
+		3FDE67DB2B0C933E00CCEB1D /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67DA2B0C933E00CCEB1D /* MainTabView.swift */; };
+		3FDE67DD2B0C98F600CCEB1D /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67DC2B0C98F600CCEB1D /* FeedView.swift */; };
+		3FDE67E02B0C9A6200CCEB1D /* FeedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67DF2B0C9A6200CCEB1D /* FeedCell.swift */; };
+		3FDE67E22B0C9E6400CCEB1D /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67E12B0C9E6400CCEB1D /* ExploreView.swift */; };
+		3FDE67E42B0C9E7B00CCEB1D /* UserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67E32B0C9E7B00CCEB1D /* UserCell.swift */; };
+		3FDE67E62B0CCD3100CCEB1D /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67E52B0CCD3100CCEB1D /* NotificationsView.swift */; };
+		3FDE67E82B0CCD3C00CCEB1D /* NotificationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67E72B0CCD3C00CCEB1D /* NotificationCell.swift */; };
+		3FDE67EA2B0CD02700CCEB1D /* CurrentUserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67E92B0CD02700CCEB1D /* CurrentUserProfileView.swift */; };
+		3FDE67EC2B0CD08E00CCEB1D /* ProfileHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67EB2B0CD08E00CCEB1D /* ProfileHeaderView.swift */; };
+		3FDE67EE2B0CD09500CCEB1D /* PostGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67ED2B0CD09500CCEB1D /* PostGridView.swift */; };
+		3FDE67F22B0CD28300CCEB1D /* UserStatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67F12B0CD28300CCEB1D /* UserStatView.swift */; };
+		3FDE67F42B0CD7DF00CCEB1D /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67F32B0CD7DF00CCEB1D /* Post.swift */; };
+		3FDE67F92B0CD84700CCEB1D /* FeedViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67F82B0CD84700CCEB1D /* FeedViewModel.swift */; };
+		3FDE67FB2B0CE3EB00CCEB1D /* CustomVideoPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDE67FA2B0CE3EB00CCEB1D /* CustomVideoPlayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,20 @@
 		3FDE67BD2B0C90A800CCEB1D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3FDE67BF2B0C90A900CCEB1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FDE67C22B0C90A900CCEB1D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3FDE67DA2B0C933E00CCEB1D /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		3FDE67DC2B0C98F600CCEB1D /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
+		3FDE67DF2B0C9A6200CCEB1D /* FeedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCell.swift; sourceTree = "<group>"; };
+		3FDE67E12B0C9E6400CCEB1D /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
+		3FDE67E32B0C9E7B00CCEB1D /* UserCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCell.swift; sourceTree = "<group>"; };
+		3FDE67E52B0CCD3100CCEB1D /* NotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsView.swift; sourceTree = "<group>"; };
+		3FDE67E72B0CCD3C00CCEB1D /* NotificationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationCell.swift; sourceTree = "<group>"; };
+		3FDE67E92B0CD02700CCEB1D /* CurrentUserProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentUserProfileView.swift; sourceTree = "<group>"; };
+		3FDE67EB2B0CD08E00CCEB1D /* ProfileHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHeaderView.swift; sourceTree = "<group>"; };
+		3FDE67ED2B0CD09500CCEB1D /* PostGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostGridView.swift; sourceTree = "<group>"; };
+		3FDE67F12B0CD28300CCEB1D /* UserStatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserStatView.swift; sourceTree = "<group>"; };
+		3FDE67F32B0CD7DF00CCEB1D /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
+		3FDE67F82B0CD84700CCEB1D /* FeedViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewModel.swift; sourceTree = "<group>"; };
+		3FDE67FA2B0CE3EB00CCEB1D /* CustomVideoPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomVideoPlayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +79,12 @@
 		3FDE67BA2B0C90A800CCEB1D /* TikTokClone */ = {
 			isa = PBXGroup;
 			children = (
-				3FDE67BB2B0C90A800CCEB1D /* TikTokCloneApp.swift */,
-				3FDE67BD2B0C90A800CCEB1D /* ContentView.swift */,
+				3FDE67CE2B0C90D500CCEB1D /* App */,
+				3FDE67CD2B0C90D400CCEB1D /* Core */,
+				3FDE67CC2B0C90D300CCEB1D /* Extensions */,
+				3FDE67CB2B0C90D100CCEB1D /* Model */,
+				3FDE67CA2B0C90D000CCEB1D /* Services */,
+				3FDE67C92B0C90C900CCEB1D /* Utils */,
 				3FDE67BF2B0C90A900CCEB1D /* Assets.xcassets */,
 				3FDE67C12B0C90A900CCEB1D /* Preview Content */,
 			);
@@ -65,6 +97,184 @@
 				3FDE67C22B0C90A900CCEB1D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3FDE67C92B0C90C900CCEB1D /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		3FDE67CA2B0C90D000CCEB1D /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		3FDE67CB2B0C90D100CCEB1D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67F32B0CD7DF00CCEB1D /* Post.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3FDE67CC2B0C90D300CCEB1D /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		3FDE67CD2B0C90D400CCEB1D /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67D92B0C914000CCEB1D /* Authentication */,
+				3FDE67D82B0C913E00CCEB1D /* Comments */,
+				3FDE67D72B0C913D00CCEB1D /* Components */,
+				3FDE67D62B0C913B00CCEB1D /* Feed */,
+				3FDE67D52B0C913700CCEB1D /* Notifications */,
+				3FDE67D42B0C913400CCEB1D /* Profile */,
+				3FDE67D32B0C913300CCEB1D /* Root */,
+				3FDE67D22B0C913100CCEB1D /* Search */,
+				3FDE67D12B0C912F00CCEB1D /* TabBar */,
+				3FDE67D02B0C911F00CCEB1D /* UploadMedia */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		3FDE67CE2B0C90D500CCEB1D /* App */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67BB2B0C90A800CCEB1D /* TikTokCloneApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		3FDE67D02B0C911F00CCEB1D /* UploadMedia */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = UploadMedia;
+			sourceTree = "<group>";
+		};
+		3FDE67D12B0C912F00CCEB1D /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67DA2B0C933E00CCEB1D /* MainTabView.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		3FDE67D22B0C913100CCEB1D /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67E12B0C9E6400CCEB1D /* ExploreView.swift */,
+				3FDE67E32B0C9E7B00CCEB1D /* UserCell.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		3FDE67D32B0C913300CCEB1D /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67BD2B0C90A800CCEB1D /* ContentView.swift */,
+			);
+			path = Root;
+			sourceTree = "<group>";
+		};
+		3FDE67D42B0C913400CCEB1D /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67F02B0CD25B00CCEB1D /* View */,
+				3FDE67EF2B0CD24B00CCEB1D /* Components */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		3FDE67D52B0C913700CCEB1D /* Notifications */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67E52B0CCD3100CCEB1D /* NotificationsView.swift */,
+				3FDE67E72B0CCD3C00CCEB1D /* NotificationCell.swift */,
+			);
+			path = Notifications;
+			sourceTree = "<group>";
+		};
+		3FDE67D62B0C913B00CCEB1D /* Feed */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67F72B0CD83000CCEB1D /* Service */,
+				3FDE67F62B0CD81E00CCEB1D /* View */,
+				3FDE67F52B0CD81700CCEB1D /* ViewModel */,
+			);
+			path = Feed;
+			sourceTree = "<group>";
+		};
+		3FDE67D72B0C913D00CCEB1D /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67FA2B0CE3EB00CCEB1D /* CustomVideoPlayer.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		3FDE67D82B0C913E00CCEB1D /* Comments */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Comments;
+			sourceTree = "<group>";
+		};
+		3FDE67D92B0C914000CCEB1D /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		3FDE67EF2B0CD24B00CCEB1D /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67ED2B0CD09500CCEB1D /* PostGridView.swift */,
+				3FDE67EB2B0CD08E00CCEB1D /* ProfileHeaderView.swift */,
+				3FDE67F12B0CD28300CCEB1D /* UserStatView.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		3FDE67F02B0CD25B00CCEB1D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67E92B0CD02700CCEB1D /* CurrentUserProfileView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3FDE67F52B0CD81700CCEB1D /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67F82B0CD84700CCEB1D /* FeedViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		3FDE67F62B0CD81E00CCEB1D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3FDE67DC2B0C98F600CCEB1D /* FeedView.swift */,
+				3FDE67DF2B0C9A6200CCEB1D /* FeedCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3FDE67F72B0CD83000CCEB1D /* Service */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Service;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +347,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FDE67DD2B0C98F600CCEB1D /* FeedView.swift in Sources */,
+				3FDE67FB2B0CE3EB00CCEB1D /* CustomVideoPlayer.swift in Sources */,
+				3FDE67E82B0CCD3C00CCEB1D /* NotificationCell.swift in Sources */,
+				3FDE67EC2B0CD08E00CCEB1D /* ProfileHeaderView.swift in Sources */,
+				3FDE67F22B0CD28300CCEB1D /* UserStatView.swift in Sources */,
+				3FDE67E02B0C9A6200CCEB1D /* FeedCell.swift in Sources */,
+				3FDE67F92B0CD84700CCEB1D /* FeedViewModel.swift in Sources */,
+				3FDE67F42B0CD7DF00CCEB1D /* Post.swift in Sources */,
 				3FDE67BE2B0C90A800CCEB1D /* ContentView.swift in Sources */,
 				3FDE67BC2B0C90A800CCEB1D /* TikTokCloneApp.swift in Sources */,
+				3FDE67E22B0C9E6400CCEB1D /* ExploreView.swift in Sources */,
+				3FDE67DB2B0C933E00CCEB1D /* MainTabView.swift in Sources */,
+				3FDE67EE2B0CD09500CCEB1D /* PostGridView.swift in Sources */,
+				3FDE67EA2B0CD02700CCEB1D /* CurrentUserProfileView.swift in Sources */,
+				3FDE67E42B0C9E7B00CCEB1D /* UserCell.swift in Sources */,
+				3FDE67E62B0CCD3100CCEB1D /* NotificationsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
